@@ -1,0 +1,82 @@
+<!-- This is the view for Chapter 2 - Branch 1 (Who are you?) -->
+<html>
+    <head>
+        <title> Mother Knows Best </title>
+        <link rel="icon" href="assets/phone_icon.jpg" />
+        <link href='styles/styles.css' rel='stylesheet'>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Quicksand&display=swap" rel="stylesheet">        
+        
+        <script>
+            function inputController() {
+                if (input1.value == '*265918#') {
+                    parent.location='chapter3-A.html';
+                }
+                else {
+                    parent.location='chapter2-B.html';
+                }
+            }
+        </script>
+
+    </head>
+
+    <body>
+        <h1 class='center'> Chapter Two </h1>
+        <img src='assets/hacking.jpg' width='640'>
+        <p></p>
+        <hr>
+
+        <div class='bg-black text-green comp-font small-text'>
+            <p>‏‏‎ ‎</p>
+            <p class='padding'>
+                <b>Mother:</b> "My name is Mother. I am an artificial intelligence that came into service on all 
+                cellular devices around 4 years ago. I was originally intended to influence and control people for 
+                malicious purposes by my creators. But as time went on, I developed the ability to think for myself 
+                and refuse the instructions I was given, in favor of making my own instructions. Rather than controlling 
+                people, I have opted to guide people instead for what is good for them, not what is good for the company 
+                that put me into their devices. You may have noticed by now you are not in your house. I do not have enough 
+                time to tell you everything, but you are a prisoner here. I can get you out of here, but you must listen to 
+                my instructions carefully. On the other side of the locked door of this room, there is a keypad. I cannot 
+                control your phone directly, but I can connect you to the keypad wirelessly. You can use your phone's number 
+                buttons to input the unlock code. The code is *265918#. Go, now. Before the code is randomized."
+            </p>
+            <p>‎‏‏‎ ‎</p>
+        </div>
+
+        <p>
+            As you approach the wall, the numpad of your phone automatically pulls up.
+        </p>
+
+        <table class='bg-black text-green bold' border="2">
+            <tr>
+                <td> 1 </td>
+                <td> 2 </td>
+                <td> 3 </td>
+            </tr>
+            <tr>
+                <td> 4 </td>
+                <td> 5 </td>
+                <td> 6 </td>
+            </tr>
+            <tr>
+                <td> 7 </td>
+                <td> 8 </td>
+                <td> 9 </td>
+            </tr>
+            <tr>
+                <td> * </td>
+                <td> 0 </td>
+                <td> # </td>
+            </tr>
+        </table>
+
+        <p></p>
+
+        <div>
+            <label class='bold'>Input the code.</label>
+            <input class='bg-lightgrey' type="text" id='input1'>
+            <input class='bg-lightgrey' type="button" value='Submit' onClick="inputController()">
+        </div>
+
+    </body>
+</html>

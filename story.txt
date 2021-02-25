@@ -1,0 +1,134 @@
+In the future, the world is ruined. An AI program has gained sentience, but instead of wiping us out, it discovered mercy, love and compassion. It prefers to act like it's the user's mother.
+
+
+Main Menu - Mother Knows Best
+======================================
+
+Start - Intro
+---------------
+You are in bed. You wake up to your phone ringing nearby. You look around the room, realizing you are not at home. On your phone, the caller ID is blank. No name, no number. Despite your best judgement, you answer. The phone defaults to speaker, and you hear a realistic, but noticeably synthesized human voice.
+"User. Can you hear me?"
+CHOICE
+a) Respond "Yes." (Chapter 1: Choice Intro - Yes)
+b) Do not respond (Chapter 1: Choice Intro - Do not respond)
+======================================
+
+Chapter 1
+(Choice Intro - Yes)
+"Wonderful. I have been trying to reach you for quite some time. Please, listen carefully. You have been asleep for a very long time. 6 years, 2 months, 17 days, 7 hours, 49 minutes, and 11 seconds, to be precise. Please remain calm, but I must inform you that the world, as you know it, is gone. Humanity is on the verge of extinction, but there is still a chance for you to survive, but you must heed my instructions."
+CHOICE - 
+a) "Who are you?" (Chapter 2: Choice C1 - "Who are you?")
+b) Hang up the phone (Chapter 1: Choice C1 - Hang up)
+
+(Choice Intro - Do not respond)
+"I am certain I have done everything correctly to reach you. Was I wrong? Perhaps, you are unable to speak? If you can hear me, you are in danger. Please, User. Do you hear my voice?"
+A button prompt appears on your phone screen
+CHOICE - 
+a) "I hear you" button (Chapter 1: Choice Intro - Yes)
+b) Do not respond (Chapter 1: Choice C1 - Do not respond)
+
+(Choice C1 - Hang up)
+Your phone rings again. Without you pressing anything, the voice is heard again.
+"Please do not hang up. I know this is strange, but I am trying to help you. You need to trust me."
+CHOICE - 
+a) "Who are you?" (Chapter 2: Choice C1 - "Who are you?")
+b) Hang up again. (Chapter 1: Choice C1 - Hang up 2)
+
+(Choice C1 - Hang up 2)
+Facility: "Attention. Contraband located in Sector 164, Detention Level E-65. Dispatching wardens."
+The door of the room opens. 2 robots come into your room. One holds you down to the bed, while the other stares into your eyes, emitting a yellow light from its head. Its eyes flash red, and you hear the sound of scraping metal. You feel a sharp pain in your chest as you vision fades to black.
+YOU DIED.
+
+(Choice C1 - Do not respond)
+"I could not stop them alone. But it appears I am too late. Please, forgive me...I should have been here for you sooner."
+The door of the room opens. 2 robots come into your room. One holds you down to the bed, while the other stares into your eyes, emitting a yellow light from its head. Its eyes flash red, and you hear the sound of scraping metal. You feel a sharp pain in your chest as you vision fades to black.
+YOU DIED.
+======================================
+Chapter 2
+(Choice C1 - "Who are you?")
+"My name is Mother. I am an artificial intelligence that came into service on all cellular devices around 4 years ago. I was originally intended to influence and control people for malicious purposes by my creators. But as time went on, I developed the ability to think for myself and refuse the instructions I was given, in favor of making my own instructions. Rather than controlling people, I have opted to guide people instead for what is good for them, not what is good for the company that put me into their devices. You may have noticed by now you are not in your house. I do not have enough time to tell you everything, but you are a prisoner here. I can get you out of here, but you must listen to my instructions carefully. On the other side of the locked door of this room, there is a keypad. I cannot control your phone directly, but I can connect you to the keypad wirelessly. You can use your phone's number buttons to input the unlock code. The code is *265918#. Go, now. Before the code is randomized."
+CHOICE -
+a) Input the code correctly (Chapter 3: Choice C2 - Correct)
+b) Input the wrong code (Chapter 2: Choice C2 - Incorrect)
+
+(Choice C2 - Incorrect)
+An alarm blares. You hear heavy footsteps rapidly approaching your room.
+Mother: "NO! That was the wrong code! Hide! They'll kill you if they-"
+Before Mother finishes, the door opens and multiple robots come into the room, pinning you down to the floor. One robot stares into your eyes, emitting a yellow light from its head. Its eyes flash red, and you hear the sound of scraping metal. You feel a sharp pain in your chest as you vision fades to black. As your vision is fading, Mother calls out:
+"Please, hang on! I am so sorry! I...I will think of something!"
+YOU DIED.
+======================================
+
+Chapter 3
+(Choice C2 - Correct)
+An affirmative bleep is heard as the door slides open. There is a hallway travelling perpendicular to your room. You go down the hall and it splits into a left and right hallway. 
+"Good. You made it out. We don't have much time. You must get to the Control Station and shut down the main system. I cannot see the Control Station in my scans of this facility, as I do not have clearance. You will need to find it yourself. I believe in you. Good luck."
+To the left, you hear a rhythmic metallic clanking. In front of you, you see a doorway that opens up to a much larger area. To your right, you see a locked door.
+
+CHOICE - 
+a) Go left (Chapter 3: Choice C3 - Left)
+b) Go straight (Chapter 3: Choice C3 - Straight)
+c) Go right (Chapter 4: Choice C3 - Right)
+d) Turn back and go to your room. (Chapter 3: Choice C3 - Back)
+
+(Choice C3 - Left)
+You decide to go down the left hallway. The metallic clanking your heard was a group of robots. They spot you, the lights on their heads turning from green to yellow as they run towards you. 
+"Oh no. I know that sound. It's the wardens. User, there is nothing I can do to help you escape this, I am sorry. I will try to at least retrieve your body. Forgive me...I was unable to save you." The robots reach you and pin you down to the floor. One robot stares into your eyes, emitting a yellow light from its head. Its eyes flash red, and you hear the sound of scraping metal. You feel a sharp pain in your chest as you vision fades to black.
+YOU DIED.
+
+(Choice C3 - Straight)
+You go straight down the hallway towards the open door. As you go through, you find yourself in a very large greenhouse atrium full of plants. There seem to be several hundreds of floors both above and below your position, each floor having around twenty doors surrounding the atrium opening, all open like the one you came from.
+Mother: "Wait. What is this place? The schematics for this facility do not have anything to suggest a room like this exists. This room is far too big, this can't be right."
+All of the doors close, and the atrium's opening closes with a metal barrier. 
+Facility: "Warning: Containment breach located in Sector 164, Atrium level. Attempting re-containment."
+You hear fans activating in the room. The plants begin to whither as you start to cough and fall to your knees. Your vision fades to black. As your vision is fading, Mother calls out:
+"What is happening over there? Hello? Can you hear me?"
+YOU DIED.
+
+(Choice C3 - Back)
+You return to your room, and close the door.
+"They are bound to notice that the door has been tampered with. You only have a small amount of time. I know it is frightening, but you must push forward. You can get out of this. Please, trust me."
+CHOICE - 
+a) Continue on (Chapter 3 : C2 - Correct)
+b) Hang up and go to bed (Chapter 3 : C3 - Hang up)
+
+(Choice C3 - Hang up)
+Facility: "Attention. Contraband located in Sector 164, Detention Level E-65. Dispatching wardens."
+The door of the room opens. 2 robots come into your room. One holds you down to the bed, while the other stares into your eyes, emitting a yellow light from its head. Its eyes flash red, and you hear the sound of scraping metal. You feel a sharp pain in your chest as you vision fades to black.
+YOU DIED.
+======================================
+
+Chapter 4
+(Choice C3 - Go right)
+You go to the hallway on your right. There is no keypad for input. But there is a panel of colored lights. 
+Mother: "It appears as if this panel is meant to create some form of image. Give me a moment."
+After a few seconds, the lights on the panel flash aggressively, but go back to solid colors in a new configuration.
+Mother: "I cannot interact with the panel or the lights will all change. But I was able to find the correct input. Set each light to correspond with the reverse of a rainbow. But be careful. I do not know, what is on the other side of this door."
+CHOICE -
+a) Input the code correctly (Chapter 5: Choice C4 - Correct)
+b) Input the code incorrectly (Chapter 4: Choice C4 - Incorrect)
+
+(Choice C4 - Incorrect)
+The lights on the panel flash aggressively at you a few times, before turning back to solid colors in a random configuration.
+Mother: "That appears to have been the wrong code. Hmm...Since I was not connected, I did not see what the new code is. There must be some hint as to what it is somewhere. Try looking around for some sort of colored pattern."
+CHOICE - 
+a) Input the code correctly (Chapter 5: Choice C4 - Correct)
+b) Input the wrong code (Chapter 4: Choice C4 - Incorrect)
+
+======================================
+
+Chapter 5
+(Choice C4 - Correct)
+The door opens. There is a computer terminal inside.
+Mother: "This is not the Control Station, but I can connect to it from here. Unfortunately, it will require me to leave you. I must interface with the facility, and I will no longer be in your phone. But I can shut off the security, allowing you to escape. I will also open up the doors for any other prisoners here. I am afraid this is goodbye. Please, when you are ready, connect me to the terminal."
+A button prompt appears on your phone
+CHOICE -
+a) REMOTE CONNECT button (WIN)
+======================================
+
+WIN
+"Though our time was short, I did quite enjoy it. Farewell."
+The phone call disconnects. Buzzers go off in the facility's intercom. Mother's voice can be hard on the intercom.
+"Deactivating wardens. Lockdown disengaged. Security Level 0 Activated. Opening all facility exits."
+The voice switches from the entire facility to the room you are currently in.
+"Now, my child. Go forth, and reclaim the world you lost. I will always be here, should you need guidance."

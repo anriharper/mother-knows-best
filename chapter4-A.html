@@ -1,0 +1,159 @@
+<!--This is the view for Chapter 4 - Branch 1 (Go right)-->
+<html>
+    <head>
+        <title> Mother Knows Best </title>
+        <link rel="icon" href="assets/phone_icon.jpg" />
+        <link href='styles/styles.css' rel='stylesheet'>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Quicksand&display=swap" rel="stylesheet">        
+
+        <script>
+            function inputController() {
+                if (input1.value == 'Violet' && input2.value == 'Indigo' && input3.value == 'Blue' && input4.value == 'Green' && input5.value == 'Yellow' && input6.value == 'Orange' && input7.value == 'Red') {
+                    parent.location = 'chapter5-A.html';
+                }
+                else {
+                    parent.location = 'chapter4-B.html';
+                }
+            }
+        </script>
+
+    </head>
+
+    <body>
+        <h1 class='center'> Chapter 4 </h1>
+        <img src='assets/hacking.jpg' width='640'>
+        <p></p>
+        <hr>
+
+        <p>
+            You go to the hallway on your right. There is no keypad for input. But there is a panel of colored lights. 
+        </p>
+
+        <div class='bg-black text-green comp-font small-text'>
+            <p>‏‏‎ ‎</p>
+            <p class='padding'>
+                <b>Mother:</b> "It appears as if this panel is meant to create some form of image. Give me a moment."
+            </p>
+            <p>‎‏‏‎ ‎</p>
+        </div>
+
+        <p>
+            After a few seconds, the lights on the panel flash aggressively, but go back to solid colors in a new configuration.
+        </p>
+
+        <div class='bg-black text-green comp-font small-text'>
+            <p>‏‏‎ ‎</p>
+            <p class='padding'>
+                <b>Mother:</b> "I cannot interact with the panel or the lights will all change. But I was able to find 
+            the correct input. Set each light to correspond with the reverse of a rainbow. But be careful. I do not 
+            know, what is on the other side of this door."
+            </p>
+            <p>‎‏‏‎ ‎</p>
+        </div>
+
+
+        <div>
+            <label class='bold'>Select:</label>
+            <select class='bg-lightgrey' id="input1">
+                <option selected>Choose...</option>
+                <option>Red</option>
+                <option>Orange</option>
+                <option>Yellow</option>
+                <option>Green</option>
+                <option>Blue</option>
+                <option>Indigo</option>
+                <option>Violet</option>
+            </select>
+        </div>
+
+        <div>
+            <label class='bold'>Select:</label>
+            <select class='bg-lightgrey' id="input2">
+                <option selected>Choose...</option>
+                <option>Red</option>
+                <option>Orange</option>
+                <option>Yellow</option>
+                <option>Green</option>
+                <option>Blue</option>
+                <option>Indigo</option>
+                <option>Violet</option>
+            </select>
+        </div>
+
+        <div>
+            <label class='bold'>Select:</label>
+            <select class='bg-lightgrey' id="input3">
+                <option selected>Choose...</option>
+                <option>Red</option>
+                <option>Orange</option>
+                <option>Yellow</option>
+                <option>Green</option>
+                <option>Blue</option>
+                <option>Indigo</option>
+                <option>Violet</option>
+            </select>
+        </div>
+
+        <div>
+            <label class='bold'>Select:</label>
+            <select class='bg-lightgrey' id="input4">
+                <option selected>Choose...</option>
+                <option>Red</option>
+                <option>Orange</option>
+                <option>Yellow</option>
+                <option>Green</option>
+                <option>Blue</option>
+                <option>Indigo</option>
+                <option>Violet</option>
+            </select>
+        </div>
+
+        <div>
+            <label class='bold'>Select:</label>
+            <select class='bg-lightgrey' id="input5">
+                <option selected>Choose...</option>
+                <option>Red</option>
+                <option>Orange</option>
+                <option>Yellow</option>
+                <option>Green</option>
+                <option>Blue</option>
+                <option>Indigo</option>
+                <option>Violet</option>
+            </select>
+        </div>
+
+        <div>
+            <label class='bold'>Select:</label>
+            <select class='bg-lightgrey' id="input6">
+                <option selected>Choose...</option>
+                <option>Red</option>
+                <option>Orange</option>
+                <option>Yellow</option>
+                <option>Green</option>
+                <option>Blue</option>
+                <option>Indigo</option>
+                <option>Violet</option>
+            </select>
+        </div>
+
+        <div>
+            <label class='bold'>Select:</label>
+            <select class='bg-lightgrey' id="input7">
+                <option selected>Choose...</option>
+                <option>Red</option>
+                <option>Orange</option>
+                <option>Yellow</option>
+                <option>Green</option>
+                <option>Blue</option>
+                <option>Indigo</option>
+                <option>Violet</option>
+            </select>
+        </div>
+
+        <p></p>
+
+        <input class='bg-lightgrey' type='button' onClick="inputController()" value='Submit'>
+
+    </body>
+</html>

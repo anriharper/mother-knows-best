@@ -1,0 +1,94 @@
+/* Body color */
+body {
+    background-color: grey;
+    font-family: 'Quicksane', sans-serif;
+    font-size: large;
+}
+
+
+/* Background colors */
+.bg-black {
+    background-color: black;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-lightgrey {
+    background-color: lightgrey;
+}
+
+
+/* Text Colors */
+.text-green {
+    color: green;
+}
+
+.text-red {
+    color: red;
+}
+
+/* Fonts */
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.large-text {
+    font-size: 22px;
+}
+
+.small-text {
+    font-size: small;
+}
+
+.quicksand-font {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.comp-font {
+    font-family: 'Press Start 2P', cursive;
+}
+
+/* Spacing */
+.padding {
+    padding-left: 20px;
+}
+
+/* Customizations */
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+.video-center {
+    display: block;
+    margin: 0 auto;
+}

@@ -1,0 +1,71 @@
+<!--This is the view for Chapter 3 - Branch 1 (correct code)-->
+<html>
+    <head>
+        <title> Mother Knows Best </title>
+        <link rel="icon" href="assets/phone_icon.jpg" />
+        <link href='styles/styles.css' rel='stylesheet'>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Quicksand&display=swap" rel="stylesheet">        
+
+        <script>
+            function inputController() {
+                if (input1.value == 'Go left') {
+                    parent.location = 'chapter3-B.html';
+                }
+                if (input1.value == 'Continue straight') {
+                    parent.location = 'chapter3-C.html';
+                }
+                if (input1.value == 'Go right') {
+                    parent.location = 'chapter4-A.html';
+                }
+                if (input1.value == 'Return to your room') {
+                    parent.location = 'chapter3-D.html';
+                }
+            }
+        </script>
+    </head>
+
+    <body>
+        <h1 class='center'> Chapter 3 </h1>
+        <img src='assets/hacking.jpg' width='640'>
+        <p></p>
+        <hr>
+
+        <p>
+            An affirmative bleep is heard as the door slides open. There is a hallway travelling 
+            perpendicular to your room. You go down the hall and it splits into a left and right hallway. 
+        </p>
+
+        <div class='bg-black text-green comp-font small-text'>
+            <p>‏‏‎ ‎</p>
+            <p class='padding'>
+                <b>Mother:</b> "Good. You made it out. We don't have much time. You must get to the Control Station 
+            and shut down the main system. I cannot see the Control Station in my scans of this facility, as I do 
+            not have clearance. You will need to find it yourself. I believe in you. Good luck."
+            </p>
+            <p>‎‏‏‎ ‎</p>
+        </div>
+
+        <p>
+            To the left, you hear a rhythmic metallic clanking. In front of you, you see a doorway that opens up to a 
+            much larger area. To your right, you see a locked door.
+        </p>
+
+
+        <div>
+            <label class='bold'>Select:</label>
+            <select class='bg-lightgrey' id="input1">
+                <option selected>Choose...</option>
+                <option>Go left</option>
+                <option>Continue straight</option>
+                <option>Go right</option>
+                <option>Return to your room</option>
+            </select>
+        </div>
+
+        <p></p>
+
+        <input class='bg-lightgrey' type='button' onClick="inputController()" value='Submit'>
+
+    </body>
+</html>
